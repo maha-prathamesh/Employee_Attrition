@@ -1,3 +1,5 @@
+<img src="./image/attrition.jpg" style="width: 500px;margin-left:200px"/>
+
 # Introduction and Overview
 
 <B>What Is Employee Attrition Rate?</B><BR>
@@ -31,7 +33,7 @@ Simply put,
     
 
 <B><font color="red">Negative attrition implies a larger, more serious problem within an organization.</font></B><br> 
-<B>--------------------------------------------------------------------------------------------------------------------------------------------------------------------</B>
+
 
 # Problem Statement
 Building model to predict in future negative attrition. 
